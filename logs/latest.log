@@ -1,41 +1,107 @@
-[14:44:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:44:10] [ServerMain/INFO]: Loaded 1407 recipes
-[14:44:10] [ServerMain/INFO]: Loaded 1520 advancements
-[14:44:10] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[14:44:10] [Server thread/INFO]: Loading properties
-[14:44:10] [Server thread/INFO]: Default game type: SURVIVAL
-[14:44:10] [Server thread/INFO]: Generating keypair
-[14:44:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:44:10] [Server thread/INFO]: Using default channel type
-[14:44:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:44:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:44:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:44:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:44:10] [Server thread/INFO]: Preparing level "world"
-[14:44:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:44:15] [Server thread/INFO]: Time elapsed: 4207 ms
-[14:44:15] [Server thread/INFO]: Done (4.734s)! For help, type "help"
-[14:44:29] [Server thread/INFO]: MinhKhoii[/26.107.92.215:50943] logged in with entity id 7 at (174.95522574738735, 64.5625, 655.0175344883905)
-[14:44:29] [Server thread/INFO]: MinhKhoii joined the game
-[14:44:49] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[14:44:49] [Server thread/INFO]: MinhKhoii left the game
-[14:44:53] [Server thread/INFO]: Stopping the server
-[14:44:53] [Server thread/INFO]: Stopping server
-[14:44:53] [Server thread/INFO]: Saving players
-[14:44:53] [Server thread/INFO]: Saving worlds
-[14:44:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:44:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:44:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:44:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:00:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:00:48] [ServerMain/INFO]: Loaded 1407 recipes
+[15:00:48] [ServerMain/INFO]: Loaded 1520 advancements
+[15:00:48] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[15:00:48] [Server thread/INFO]: Loading properties
+[15:00:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:00:48] [Server thread/INFO]: Generating keypair
+[15:00:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:00:49] [Server thread/INFO]: Using default channel type
+[15:00:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:00:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:00:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:00:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:00:49] [Server thread/INFO]: Preparing level "world"
+[15:00:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:00:54] [Server thread/INFO]: Time elapsed: 5248 ms
+[15:00:54] [Server thread/INFO]: Done (5.657s)! For help, type "help"
+[15:01:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:02:48] [Server thread/INFO]: MinhKhoii[/26.107.92.215:51171] logged in with entity id 7 at (186.90408327537682, 65.5625, 705.8634255978983)
+[15:02:48] [Server thread/INFO]: MinhKhoii joined the game
+[15:04:49] [Server thread/INFO]: MinhKhoii has made the advancement [Stone Age]
+[15:05:54] [Server thread/INFO]: MinhKhoii has made the advancement [Getting an Upgrade]
+[15:06:18] [Server thread/INFO]: MinhKhoii has made the advancement [Sweet Dreams]
+[15:07:12] [Server thread/INFO]: MrCowww[/26.45.105.26:51402] logged in with entity id 1070 at (-132.5, 71.0, 31.5)
+[15:07:12] [Server thread/INFO]: MrCowww joined the game
+[15:08:19] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[15:08:19] [Server thread/INFO]: MinhKhoii left the game
+[15:08:58] [Server thread/INFO]: MinhKhoii[/26.107.92.215:51253] logged in with entity id 2052 at (153.5757962543926, 66.9375, 718.3795864021025)
+[15:08:58] [Server thread/INFO]: MinhKhoii joined the game
+[15:09:26] [Server thread/INFO]: MinhKhoii has made the advancement [Suit Up]
+[15:09:26] [Server thread/INFO]: MinhKhoii has made the advancement [Acquire Hardware]
+[15:10:16] [Server thread/INFO]: [Not Secure] <MrCowww> cin toa do
+[15:10:32] [Server thread/INFO]: [Not Secure] <MinhKhoii> 171 688
+[15:11:07] [Server thread/INFO]: MrCowww has made the advancement [Stone Age]
+[15:11:39] [Server thread/INFO]: MrCowww has made the advancement [Getting an Upgrade]
+[15:15:22] [Server thread/INFO]: [Not Secure] <MrCowww> ?
+[15:15:23] [Server thread/INFO]: MrCowww has made the advancement [Suit Up]
+[15:16:40] [Server thread/INFO]: [Not Secure] <MrCowww> =))))))
+[15:16:45] [Server thread/INFO]: MrCowww was slain by Iron Golem
+[15:16:49] [Server thread/INFO]: [Not Secure] <MinhKhoii> vua lozzzz
+[15:17:18] [Server thread/INFO]: MrCowww was slain by Iron Golem
+[15:17:48] [Server thread/INFO]: [Not Secure] <MrCowww> nhot dan lang
+[15:18:45] [Server thread/INFO]: [Not Secure] <MrCowww> nhot dan lang
+[15:18:50] [Server thread/INFO]: [Not Secure] <MinhKhoii> dang
+[15:18:58] [Server thread/INFO]: Villager cuf['Nitwit'/2135, l='ServerLevel[world]', x=165.70, y=65.00, z=680.75] died, message: 'Nitwit was slain by MrCowww'
+[15:19:21] [Server thread/INFO]: MinhKhoii has made the advancement [Monster Hunter]
+[15:19:37] [Server thread/INFO]: [Not Secure] <MinhKhoii> vc
+[15:19:43] [Server thread/INFO]: [Not Secure] <MrCowww> ha
+[15:19:46] [Server thread/INFO]: [Not Secure] <MinhKhoii> 2 đớp mém chét
+[15:21:14] [Server thread/INFO]: [Not Secure] <MinhKhoii> ngu
+[15:21:36] [Server thread/INFO]: MrCowww has made the advancement [Sweet Dreams]
+[15:21:41] [Server thread/INFO]: [Not Secure] <MinhKhoii> cut
+[15:22:01] [Server thread/INFO]: [Not Secure] <MrCowww> dis
+[15:22:09] [Server thread/INFO]: [Not Secure] <MrCowww> discord
+[15:34:03] [Server thread/INFO]: MrCowww has made the advancement [Monster Hunter]
+[15:37:17] [Server thread/INFO]: MinhKhoii has made the advancement [Isn't It Iron Pick]
+[15:43:06] [Server thread/INFO]: MinhKhoii fell from a high place
+[15:43:37] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[15:43:37] [Server thread/INFO]: MrCowww left the game
+[15:43:47] [Server thread/INFO]: MrCowww[/26.45.105.26:51451] logged in with entity id 13777 at (35.449090853719774, 31.0, 889.6861479091441)
+[15:43:47] [Server thread/INFO]: MrCowww joined the game
+[15:48:11] [Server thread/INFO]: MrCowww has made the advancement [Acquire Hardware]
+[15:48:24] [Server thread/INFO]: MrCowww has made the advancement [Isn't It Iron Pick]
+[15:48:47] [Server thread/INFO]: MinhKhoii was shot by Skeleton
+[15:50:19] [Server thread/INFO]: MinhKhoii fell from a high place
+[15:53:20] [Server thread/INFO]: MrCowww has made the advancement [Diamonds!]
+[15:54:22] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[15:54:22] [Server thread/INFO]: MrCowww left the game
+[15:54:32] [Server thread/INFO]: MrCowww[/26.45.105.26:51487] logged in with entity id 16960 at (23.697799115606763, -10.0, 951.4748144078116)
+[15:54:32] [Server thread/INFO]: MrCowww joined the game
+[16:05:17] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[16:05:17] [Server thread/INFO]: MinhKhoii left the game
+[16:05:27] [Server thread/INFO]: MinhKhoii[/26.107.92.215:51458] logged in with entity id 20183 at (222.093525682963, 54.0, 731.2226458738196)
+[16:05:27] [Server thread/INFO]: MinhKhoii joined the game
+[16:19:05] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[16:19:05] [Server thread/INFO]: MinhKhoii left the game
+[16:20:16] [Server thread/INFO]: MinhKhoii[/26.107.92.215:51502] logged in with entity id 24785 at (219.54727657489096, 54.0, 732.6677367189354)
+[16:20:16] [Server thread/INFO]: MinhKhoii joined the game
+[16:20:27] [Server thread/INFO]: MinhKhoii was blown up by Creeper
+[16:26:31] [Server thread/WARN]: Oak Boat (vehicle of MrCowww) moved wrongly! 0.2600735555954259
+[16:27:47] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[16:27:47] [Server thread/INFO]: MrCowww left the game
+[16:36:33] [Server thread/INFO]: MinhKhoii has made the advancement [Hot Stuff]
+[17:01:07] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[17:01:07] [Server thread/INFO]: MinhKhoii left the game
+[17:01:22] [Server thread/INFO]: Stopping the server
+[17:01:22] [Server thread/INFO]: Stopping server
+[17:01:22] [Server thread/INFO]: Saving players
+[17:01:22] [Server thread/INFO]: Saving worlds
+[17:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:01:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:01:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
