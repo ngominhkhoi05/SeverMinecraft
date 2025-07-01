@@ -1,219 +1,65 @@
-[08:33:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:33:40] [ServerMain/INFO]: Loaded 1407 recipes
-[08:33:41] [ServerMain/INFO]: Loaded 1520 advancements
-[08:33:41] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[08:33:41] [Server thread/INFO]: Loading properties
-[08:33:41] [Server thread/INFO]: Default game type: SURVIVAL
-[08:33:41] [Server thread/INFO]: Generating keypair
-[08:33:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:33:42] [Server thread/INFO]: Using default channel type
-[08:33:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:33:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:33:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:33:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:33:42] [Server thread/INFO]: Preparing level "world"
-[08:33:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:33:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[08:33:52] [Server thread/INFO]: Time elapsed: 8075 ms
-[08:33:52] [Server thread/INFO]: Done (9.829s)! For help, type "help"
-[08:34:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[08:35:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[08:35:34] [Server thread/INFO]: keep<--[HERE]
-[08:35:59] [Server thread/INFO]: /advancement (grant|revoke)
-[08:35:59] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[08:35:59] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[08:35:59] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[08:35:59] [Server thread/INFO]: /clear [<targets>]
-[08:35:59] [Server thread/INFO]: /clone (<begin>|from)
-[08:35:59] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[08:35:59] [Server thread/INFO]: /data (merge|get|remove|modify)
-[08:35:59] [Server thread/INFO]: /datapack (enable|disable|list|create)
-[08:35:59] [Server thread/INFO]: /debug (start|stop|function)
-[08:35:59] [Server thread/INFO]: /defaultgamemode <gamemode>
-[08:35:59] [Server thread/INFO]: /dialog (show|clear)
-[08:35:59] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[08:35:59] [Server thread/INFO]: /effect (clear|give)
-[08:35:59] [Server thread/INFO]: /me <action>
-[08:35:59] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[08:35:59] [Server thread/INFO]: /experience (add|set|query)
-[08:35:59] [Server thread/INFO]: /xp -> experience
-[08:35:59] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
-[08:35:59] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[08:35:59] [Server thread/INFO]: /forceload (add|remove|query)
-[08:35:59] [Server thread/INFO]: /function <name> [<arguments>|with]
-[08:35:59] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[08:35:59] [Server thread/INFO]: /gamerule (allowFireTicksAwayFromPlayer|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|locatorBar|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplodes|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[08:35:59] [Server thread/INFO]: /give <targets> <item> [<count>]
-[08:35:59] [Server thread/INFO]: /help [<command>]
-[08:35:59] [Server thread/INFO]: /item (replace|modify)
-[08:35:59] [Server thread/INFO]: /kick <targets> [<reason>]
-[08:35:59] [Server thread/INFO]: /kill [<targets>]
-[08:35:59] [Server thread/INFO]: /list [uuids]
-[08:35:59] [Server thread/INFO]: /locate (structure|biome|poi)
-[08:35:59] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[08:35:59] [Server thread/INFO]: /msg <targets> <message>
-[08:35:59] [Server thread/INFO]: /tell -> msg
-[08:35:59] [Server thread/INFO]: /w -> msg
-[08:35:59] [Server thread/INFO]: /particle <name> [<pos>]
-[08:35:59] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[08:35:59] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
-[08:35:59] [Server thread/INFO]: /random (value|roll|reset)
-[08:35:59] [Server thread/INFO]: /reload
-[08:35:59] [Server thread/INFO]: /recipe (give|take)
-[08:35:59] [Server thread/INFO]: /return (<value>|fail|run)
-[08:35:59] [Server thread/INFO]: /ride <target> (mount|dismount)
-[08:35:59] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[08:35:59] [Server thread/INFO]: /say <message>
-[08:35:59] [Server thread/INFO]: /schedule (function|clear)
-[08:35:59] [Server thread/INFO]: /scoreboard (objectives|players)
-[08:35:59] [Server thread/INFO]: /seed
-[08:35:59] [Server thread/INFO]: /version
-[08:35:59] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
-[08:35:59] [Server thread/INFO]: /spawnpoint [<targets>]
-[08:35:59] [Server thread/INFO]: /setworldspawn [<pos>]
-[08:35:59] [Server thread/INFO]: /spectate [<target>]
-[08:35:59] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[08:35:59] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
-[08:35:59] [Server thread/INFO]: /summon <entity> [<pos>]
-[08:35:59] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[08:35:59] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[08:35:59] [Server thread/INFO]: /teammsg <message>
-[08:35:59] [Server thread/INFO]: /tm -> teammsg
-[08:35:59] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[08:35:59] [Server thread/INFO]: /tp -> teleport
-[08:35:59] [Server thread/INFO]: /tellraw <targets> <message>
-[08:35:59] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
-[08:35:59] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[08:35:59] [Server thread/INFO]: /time (set|add|query)
-[08:35:59] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[08:35:59] [Server thread/INFO]: /trigger <objective> [add|set]
-[08:35:59] [Server thread/INFO]: /waypoint (list|modify)
-[08:35:59] [Server thread/INFO]: /weather (clear|rain|thunder)
-[08:35:59] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[08:35:59] [Server thread/INFO]: /jfr (start|stop)
-[08:35:59] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[08:35:59] [Server thread/INFO]: /banlist [ips|players]
-[08:35:59] [Server thread/INFO]: /ban <targets> [<reason>]
-[08:35:59] [Server thread/INFO]: /deop <targets>
-[08:35:59] [Server thread/INFO]: /op <targets>
-[08:35:59] [Server thread/INFO]: /pardon <targets>
-[08:35:59] [Server thread/INFO]: /pardon-ip <target>
-[08:35:59] [Server thread/INFO]: /perf (start|stop)
-[08:35:59] [Server thread/INFO]: /save-all [flush]
-[08:35:59] [Server thread/INFO]: /save-off
-[08:35:59] [Server thread/INFO]: /save-on
-[08:35:59] [Server thread/INFO]: /setidletimeout <minutes>
-[08:35:59] [Server thread/INFO]: /stop
-[08:35:59] [Server thread/INFO]: /transfer <hostname> [<port>]
-[08:35:59] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[08:36:14] [Server thread/INFO]: Seed: [-5103896566525624651]
-[08:36:34] [Server thread/INFO]: MrCowww[/26.45.105.26:49922] logged in with entity id 8 at (220.64418061793572, 61.0, 732.6999999880791)
-[08:36:35] [Server thread/INFO]: MrCowww joined the game
-[08:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
-[08:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17959ms or 359 ticks behind
-[08:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[08:38:48] [Server thread/INFO]: MrCowww has made the advancement [Not Today, Thank You]
-[08:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
-[08:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
-[08:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
-[08:48:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[08:49:15] [Server thread/INFO]: MrCowww was slain by Enderman
-[08:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[08:52:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5721ms or 114 ticks behind
-[09:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[09:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
-[09:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
-[09:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
-[09:22:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
-[09:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[09:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
-[09:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind
-[09:52:49] [Server thread/INFO]: MinhKhoii[/26.107.92.215:54925] logged in with entity id 14824 at (205.37531491350347, 63.0, 737.9920352226238)
-[09:52:49] [Server thread/INFO]: MinhKhoii joined the game
-[09:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
-[09:52:56] [Server thread/WARN]: MinhKhoii moved too quickly! 0.0,-15.0,0.0
-[10:00:37] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 0.5381880632091907,0.0,10.38600166902063
-[10:00:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3901ms or 78 ticks behind
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -2.610589131170684,0.0,10.040324024171696
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -2.7233568083036914,0.0,10.42386586703526
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -2.836495795346508,0.0,10.807319977810721
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -2.9499762982585764,0.0,11.190692898260068
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.063771501472729,0.0,11.573990508518364
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -2.995454656533127,0.0,9.95670438674972
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.1121495004459234,0.0,10.339285225766616
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.2288852895433138,0.0,10.72185540059479
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.345657929305844,0.0,11.104415977653389
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.46246373466613,0.0,11.486967916719664
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.579299389063607,0.0,11.86951208159303
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.696161907593847,0.0,12.252049249692845
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.0406867136989035,0.0,9.94536673869868
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.1577898930433435,0.0,10.327839914996503
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.274896850636452,0.0,10.710312068342432
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.3920072086532684,0.0,11.092783301031773
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.5091206270513453,0.0,11.475253705130058
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.62623679979248,0.0,11.857723363496461
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.7433554514422838,0.0,12.240192350704206
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.8604763341098476,0.0,12.622660733869225
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -3.9775992246933356,0.0,13.005128573395723
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -4.094723922401101,0.0,13.38759592364761
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -4.211850246520697,0.0,13.770062833552288
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -4.328978034410881,0.0,14.15252934714465
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! -4.446107139694561,0.0,14.534995504055814
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.802393039679714,0.0,-19.137004124421537
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.802393039679714,0.0,-19.137004124421537
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.802393039679714,0.0,-19.137004124421537
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.802393039679714,0.0,-19.137004124421537
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.802393039679714,0.0,-19.137004124421537
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.685352424882069,0.0,-18.754510871701427
-[10:00:49] [Server thread/WARN]: Oak Boat (vehicle of MinhKhoii) moved too quickly! 5.568393478988241,0.0,-18.371992683821645
-[10:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11813ms or 236 ticks behind
-[10:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[10:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[10:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
-[10:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9944ms or 198 ticks behind
-[10:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4622ms or 92 ticks behind
-[10:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
-[10:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[10:05:16] [Server thread/INFO]: MinhKhoii has made the advancement [Not Today, Thank You]
-[10:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16932ms or 338 ticks behind
-[10:05:40] [Server thread/INFO]: [Not Secure] <MinhKhoii> e
-[10:05:45] [Server thread/INFO]: [Not Secure] <MinhKhoii> e tin
-[10:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
-[10:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[10:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6664ms or 133 ticks behind
-[10:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[10:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13026ms or 260 ticks behind
-[10:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
-[10:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[10:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[10:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8412ms or 168 ticks behind
-[10:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[10:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
-[10:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[10:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
-[10:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
-[10:12:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-34, y=64, z=1342} jb{x=-35, y=61, z=1340}
-[10:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4883ms or 97 ticks behind
-[10:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[10:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[10:13:38] [Server thread/INFO]: Stopping the server
-[10:13:38] [Server thread/INFO]: Stopping server
-[10:13:39] [Server thread/INFO]: Saving players
-[10:13:50] [Server thread/INFO]: MrCowww lost connection: Server closed
-[10:13:51] [Server thread/INFO]: MrCowww left the game
-[10:13:53] [Server thread/INFO]: Saving worlds
+[10:09:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:09:06] [ServerMain/INFO]: Loaded 1407 recipes
+[10:09:06] [ServerMain/INFO]: Loaded 1520 advancements
+[10:09:06] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[10:09:06] [Server thread/INFO]: Loading properties
+[10:09:06] [Server thread/INFO]: Default game type: SURVIVAL
+[10:09:06] [Server thread/INFO]: Generating keypair
+[10:09:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:09:07] [Server thread/INFO]: Using default channel type
+[10:09:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:09:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:09:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:09:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:09:07] [Server thread/INFO]: Preparing level "world"
+[10:09:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[10:09:12] [Server thread/INFO]: Time elapsed: 4457 ms
+[10:09:12] [Server thread/INFO]: Done (4.990s)! For help, type "help"
+[10:09:16] [Server thread/INFO]: MrCowww[/26.45.105.26:50078] logged in with entity id 8 at (210.30000001192093, 61.0, 735.113917856779)
+[10:09:16] [Server thread/INFO]: MrCowww joined the game
+[10:09:31] [Server thread/INFO]: MinhKhoii[/26.107.92.215:55346] logged in with entity id 285 at (-41.659959539594176, 63.0, 1268.6872838565823)
+[10:09:31] [Server thread/INFO]: MinhKhoii joined the game
+[10:19:59] [Server thread/INFO]: MinhKhoii has made the advancement [Diamonds!]
+[10:22:54] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[10:22:54] [Server thread/INFO]: MinhKhoii left the game
+[10:38:34] [Server thread/INFO]: MinhKhoii[/26.107.92.215:55808] logged in with entity id 6203 at (184.22187579515494, 63.0, 737.6618774319388)
+[10:38:34] [Server thread/INFO]: MinhKhoii joined the game
+[10:50:17] [Server thread/INFO]: MinhKhoii has made the advancement [Ice Bucket Challenge]
+[10:55:06] [Server thread/INFO]: MinhKhoii has made the advancement [We Need to Go Deeper]
+[10:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5505ms or 110 ticks behind
+[11:05:53] [Server thread/INFO]: MrCowww has made the advancement [We Need to Go Deeper]
+[11:06:02] [Server thread/INFO]: [Not Secure] <MinhKhoii> kiem cat linh hon cho t
+[11:06:07] [Server thread/INFO]: [Not Secure] <MrCowww> =))
+[11:19:53] [Server thread/INFO]: [Not Secure] <MrCowww> discord
+[11:19:59] [Server thread/INFO]: [Not Secure] <MrCowww> discord
+[11:19:59] [Server thread/INFO]: [Not Secure] <MrCowww> discord
+[11:20:00] [Server thread/INFO]: [Not Secure] <MrCowww> discord
+[11:40:18] [Server thread/INFO]: MrCowww drowned
+[11:42:07] [Server thread/INFO]: MrCowww was blown up by Creeper
+[11:55:48] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
+[11:55:48] [Server thread/INFO]: MinhKhoii left the game
+[12:11:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 182542ms or 3650 ticks behind
+[12:11:57] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[12:11:57] [Server thread/INFO]: MrCowww left the game
+[12:12:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9823ms or 196 ticks behind
+[12:21:28] [Server thread/INFO]: Stopping the server
+[12:21:28] [Server thread/INFO]: Stopping server
+[12:21:28] [Server thread/INFO]: Saving players
+[12:21:28] [Server thread/INFO]: Saving worlds
+[12:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:21:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:21:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
