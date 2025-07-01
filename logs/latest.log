@@ -1,134 +1,52 @@
-[19:29:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:29:39] [ServerMain/INFO]: Loaded 1407 recipes
-[19:29:39] [ServerMain/INFO]: Loaded 1520 advancements
-[19:29:40] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[19:29:40] [Server thread/INFO]: Loading properties
-[19:29:40] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:40] [Server thread/INFO]: Generating keypair
-[19:29:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:40] [Server thread/INFO]: Using default channel type
-[19:29:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:29:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:29:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:29:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:29:41] [Server thread/INFO]: Preparing level "world"
-[19:29:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:29:46] [Server thread/INFO]: Time elapsed: 4782 ms
-[19:29:46] [Server thread/INFO]: Done (5.638s)! For help, type "help"
-[19:30:08] [Server thread/INFO]: /advancement (grant|revoke)
-[19:30:08] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[19:30:08] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[19:30:08] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[19:30:08] [Server thread/INFO]: /clear [<targets>]
-[19:30:08] [Server thread/INFO]: /clone (<begin>|from)
-[19:30:08] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[19:30:08] [Server thread/INFO]: /data (merge|get|remove|modify)
-[19:30:08] [Server thread/INFO]: /datapack (enable|disable|list|create)
-[19:30:08] [Server thread/INFO]: /debug (start|stop|function)
-[19:30:08] [Server thread/INFO]: /defaultgamemode <gamemode>
-[19:30:08] [Server thread/INFO]: /dialog (show|clear)
-[19:30:08] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[19:30:08] [Server thread/INFO]: /effect (clear|give)
-[19:30:08] [Server thread/INFO]: /me <action>
-[19:30:08] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[19:30:08] [Server thread/INFO]: /experience (add|set|query)
-[19:30:08] [Server thread/INFO]: /xp -> experience
-[19:30:08] [Server thread/INFO]: /fill <from> <to> <block> [outline|hollow|destroy|strict|replace|keep]
-[19:30:08] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[19:30:08] [Server thread/INFO]: /forceload (add|remove|query)
-[19:30:08] [Server thread/INFO]: /function <name> [<arguments>|with]
-[19:30:08] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[19:30:08] [Server thread/INFO]: /gamerule (allowFireTicksAwayFromPlayer|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|locatorBar|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplodes|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[19:30:08] [Server thread/INFO]: /give <targets> <item> [<count>]
-[19:30:08] [Server thread/INFO]: /help [<command>]
-[19:30:08] [Server thread/INFO]: /item (replace|modify)
-[19:30:08] [Server thread/INFO]: /kick <targets> [<reason>]
-[19:30:08] [Server thread/INFO]: /kill [<targets>]
-[19:30:08] [Server thread/INFO]: /list [uuids]
-[19:30:08] [Server thread/INFO]: /locate (structure|biome|poi)
-[19:30:08] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[19:30:08] [Server thread/INFO]: /msg <targets> <message>
-[19:30:08] [Server thread/INFO]: /tell -> msg
-[19:30:08] [Server thread/INFO]: /w -> msg
-[19:30:08] [Server thread/INFO]: /particle <name> [<pos>]
-[19:30:08] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[19:30:08] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
-[19:30:08] [Server thread/INFO]: /random (value|roll|reset)
-[19:30:08] [Server thread/INFO]: /reload
-[19:30:08] [Server thread/INFO]: /recipe (give|take)
-[19:30:08] [Server thread/INFO]: /return (<value>|fail|run)
-[19:30:08] [Server thread/INFO]: /ride <target> (mount|dismount)
-[19:30:08] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[19:30:08] [Server thread/INFO]: /say <message>
-[19:30:08] [Server thread/INFO]: /schedule (function|clear)
-[19:30:08] [Server thread/INFO]: /scoreboard (objectives|players)
-[19:30:08] [Server thread/INFO]: /seed
-[19:30:08] [Server thread/INFO]: /version
-[19:30:08] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace|strict]
-[19:30:08] [Server thread/INFO]: /spawnpoint [<targets>]
-[19:30:08] [Server thread/INFO]: /setworldspawn [<pos>]
-[19:30:08] [Server thread/INFO]: /spectate [<target>]
-[19:30:08] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[19:30:08] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice|ui]
-[19:30:08] [Server thread/INFO]: /summon <entity> [<pos>]
-[19:30:08] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[19:30:08] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[19:30:08] [Server thread/INFO]: /teammsg <message>
-[19:30:08] [Server thread/INFO]: /tm -> teammsg
-[19:30:08] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[19:30:08] [Server thread/INFO]: /tp -> teleport
-[19:30:08] [Server thread/INFO]: /tellraw <targets> <message>
-[19:30:08] [Server thread/INFO]: /test (run|runmultiple|runthese|runclosest|runthat|runfailed|verify|locate|resetclosest|resetthese|resetthat|clearthat|clearthese|clearall|stop|pos|create)
-[19:30:08] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[19:30:08] [Server thread/INFO]: /time (set|add|query)
-[19:30:08] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[19:30:08] [Server thread/INFO]: /trigger <objective> [add|set]
-[19:30:08] [Server thread/INFO]: /waypoint (list|modify)
-[19:30:08] [Server thread/INFO]: /weather (clear|rain|thunder)
-[19:30:08] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[19:30:08] [Server thread/INFO]: /jfr (start|stop)
-[19:30:08] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[19:30:08] [Server thread/INFO]: /banlist [ips|players]
-[19:30:08] [Server thread/INFO]: /ban <targets> [<reason>]
-[19:30:08] [Server thread/INFO]: /deop <targets>
-[19:30:08] [Server thread/INFO]: /op <targets>
-[19:30:08] [Server thread/INFO]: /pardon <targets>
-[19:30:08] [Server thread/INFO]: /pardon-ip <target>
-[19:30:08] [Server thread/INFO]: /perf (start|stop)
-[19:30:08] [Server thread/INFO]: /save-all [flush]
-[19:30:08] [Server thread/INFO]: /save-off
-[19:30:08] [Server thread/INFO]: /save-on
-[19:30:08] [Server thread/INFO]: /setidletimeout <minutes>
-[19:30:08] [Server thread/INFO]: /stop
-[19:30:08] [Server thread/INFO]: /transfer <hostname> [<port>]
-[19:30:08] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[19:30:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:31:22] [Server thread/INFO]: MrCowww[/26.45.105.26:51187] logged in with entity id 8 at (210.30000001192093, 61.0, 735.1713161295214)
-[19:31:23] [Server thread/INFO]: MrCowww joined the game
-[19:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
-[19:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27553ms or 551 ticks behind
-[19:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
-[19:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
-[19:45:24] [Server thread/INFO]: MrCowww lost connection: Disconnected
-[19:45:24] [Server thread/INFO]: MrCowww left the game
-[19:45:30] [Server thread/INFO]: Stopping the server
-[19:45:30] [Server thread/INFO]: Stopping server
-[19:45:30] [Server thread/INFO]: Saving players
-[19:45:30] [Server thread/INFO]: Saving worlds
-[19:45:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:45:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:45:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:45:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:45:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:45:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:45:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:29:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:29:29] [ServerMain/INFO]: Loaded 1407 recipes
+[21:29:29] [ServerMain/INFO]: Loaded 1520 advancements
+[21:29:30] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[21:29:30] [Server thread/INFO]: Loading properties
+[21:29:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:29:30] [Server thread/INFO]: Generating keypair
+[21:29:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:29:31] [Server thread/INFO]: Using default channel type
+[21:29:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:29:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:29:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:29:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:29:31] [Server thread/INFO]: Preparing level "world"
+[21:29:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:29:40] [Server thread/INFO]: Time elapsed: 7635 ms
+[21:29:40] [Server thread/INFO]: Done (8.980s)! For help, type "help"
+[21:30:07] [Server thread/INFO]: MrCowww[/26.45.105.26:51405] logged in with entity id 8 at (214.27326340133385, 63.0, 731.6999999880791)
+[21:30:07] [Server thread/INFO]: MrCowww joined the game
+[21:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[21:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20931ms or 418 ticks behind
+[21:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[21:36:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[21:38:43] [Server thread/INFO]: MrCowww lost connection: Disconnected
+[21:38:43] [Server thread/INFO]: MrCowww left the game
+[21:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5484ms or 109 ticks behind
+[21:38:56] [Server thread/INFO]: Stopping the server
+[21:38:56] [Server thread/INFO]: Stopping server
+[21:38:56] [Server thread/INFO]: Saving players
+[21:38:56] [Server thread/INFO]: Saving worlds
+[21:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:38:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:38:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
