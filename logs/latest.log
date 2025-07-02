@@ -1,46 +1,83 @@
-[15:47:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:47:59] [ServerMain/INFO]: Loaded 1407 recipes
-[15:47:59] [ServerMain/INFO]: Loaded 1520 advancements
-[15:47:59] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[15:47:59] [Server thread/INFO]: Loading properties
-[15:47:59] [Server thread/INFO]: Default game type: SURVIVAL
-[15:47:59] [Server thread/INFO]: Generating keypair
-[15:48:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:48:00] [Server thread/INFO]: Using default channel type
-[15:48:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:48:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:48:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:48:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:48:00] [Server thread/INFO]: Preparing level "world"
-[15:48:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:04] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:48:05] [Server thread/INFO]: Time elapsed: 4584 ms
-[15:48:05] [Server thread/INFO]: Done (4.938s)! For help, type "help"
-[15:48:33] [Server thread/INFO]: MinhKhoii[/26.107.92.215:62340] logged in with entity id 8 at (252.389843964107, -22.0, 875.2789833660634)
-[15:48:33] [Server thread/INFO]: MinhKhoii joined the game
-[15:48:48] [Server thread/INFO]: MinhKhoii lost connection: Disconnected
-[15:48:48] [Server thread/INFO]: MinhKhoii left the game
-[15:49:36] [Server thread/INFO]: MrCowww[/26.45.105.26:53066] logged in with entity id 342 at (220.62151688518773, 61.0, 732.6999999880791)
-[15:49:36] [Server thread/INFO]: MrCowww joined the game
-[16:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 147008ms or 2940 ticks behind
-[16:50:17] [Server thread/INFO]: MrCowww lost connection: Timed out
-[16:50:17] [Server thread/INFO]: MrCowww left the game
-[16:50:28] [Server thread/INFO]: Stopping the server
-[16:50:28] [Server thread/INFO]: Stopping server
-[16:50:28] [Server thread/INFO]: Saving players
-[16:50:28] [Server thread/INFO]: Saving worlds
-[16:50:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:50:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:50:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:50:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:50:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:50:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:50:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:41:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:41:47] [ServerMain/INFO]: Loaded 1407 recipes
+[19:41:47] [ServerMain/INFO]: Loaded 1520 advancements
+[19:41:47] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[19:41:47] [Server thread/INFO]: Loading properties
+[19:41:47] [Server thread/INFO]: Default game type: SURVIVAL
+[19:41:47] [Server thread/INFO]: Generating keypair
+[19:41:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:41:47] [Server thread/INFO]: Using default channel type
+[19:41:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:41:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:41:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:41:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:41:48] [Server thread/INFO]: Preparing level "world"
+[19:41:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:41:54] [Server thread/INFO]: Time elapsed: 5416 ms
+[19:41:54] [Server thread/INFO]: Done (6.442s)! For help, type "help"
+[19:42:10] [Server thread/INFO]: MrCowww[/26.45.105.26:53327] logged in with entity id 8 at (220.69999998807907, 61.0, 732.6999999880791)
+[19:42:10] [Server thread/INFO]: MrCowww joined the game
+[19:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[19:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13370ms or 267 ticks behind
+[19:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[19:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
+[19:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[19:44:13] [Server thread/INFO]: [Not Secure] <MrCowww> 27
+[19:44:25] [Server thread/INFO]: [Not Secure] <MrCowww> 92
+[19:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4911ms or 98 ticks behind
+[19:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
+[19:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
+[19:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[19:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[19:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19:57:03] [Server thread/INFO]: [Not Secure] <MrCowww> -117 -213
+[19:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[20:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[20:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[20:09:28] [Server thread/INFO]: MrCowww has made the advancement [A Terrible Fortress]
+[20:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:18:38] [Server thread/INFO]: MrCowww has made the advancement [Spooky Scary Skeleton]
+[20:19:40] [Server thread/WARN]: MrCowww moved too quickly! -4.132037916328549,-0.24918707874468282,-9.131955889623129
+[20:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9084ms or 181 ticks behind
+[20:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[20:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[20:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[20:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
+[20:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[20:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[20:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[21:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[21:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4339ms or 86 ticks behind
+[21:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4239ms or 84 ticks behind
+[21:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
+[21:13:45] [Server thread/WARN]: MrCowww moved too quickly! -2.990934910022787,1.1017092043376664,-9.55220564289732
+[21:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[21:22:01] [Server thread/INFO]: Stopping the server
+[21:22:01] [Server thread/INFO]: Stopping server
+[21:22:01] [Server thread/INFO]: Saving players
+[21:22:03] [Server thread/INFO]: MrCowww lost connection: Server closed
+[21:22:04] [Server thread/INFO]: MrCowww left the game
+[21:22:04] [Server thread/INFO]: Saving worlds
+[21:22:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:22:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:22:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

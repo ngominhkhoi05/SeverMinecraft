@@ -633,11 +633,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-02 20:14:41 +0700",
       "minecraft:skeleton": "2025-07-01 08:39:04 +0700",
       "minecraft:piglin": "2025-07-01 11:13:19 +0700",
       "minecraft:zombified_piglin": "2025-07-01 11:24:16 +0700",
       "minecraft:enderman": "2025-06-30 19:45:28 +0700",
+      "minecraft:magma_cube": "2025-07-02 20:22:48 +0700",
       "minecraft:spider": "2025-06-30 15:34:03 +0700",
+      "minecraft:wither_skeleton": "2025-07-02 20:13:08 +0700",
       "minecraft:zombie": "2025-07-01 08:58:33 +0700",
       "minecraft:creeper": "2025-06-30 16:14:58 +0700",
       "minecraft:ghast": "2025-07-02 14:35:55 +0700",
@@ -2478,6 +2481,48 @@
   "minecraft:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-02 20:18:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-02 20:11:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-02 20:20:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-02 20:11:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-02 20:20:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-02 20:09:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-02 20:18:38 +0700"
     },
     "done": true
   },
