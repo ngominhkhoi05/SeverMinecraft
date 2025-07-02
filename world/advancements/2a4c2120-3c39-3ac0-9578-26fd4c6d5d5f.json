@@ -385,6 +385,7 @@
       "rotten_flesh": "2025-07-02 11:36:58 +0700",
       "cooked_mutton": "2025-07-01 08:45:04 +0700",
       "potato": "2025-07-01 14:02:27 +0700",
+      "baked_potato": "2025-07-02 14:28:41 +0700",
       "porkchop": "2025-06-30 16:06:07 +0700",
       "carrot": "2025-07-01 14:02:30 +0700"
     },
@@ -638,7 +639,9 @@
       "minecraft:enderman": "2025-06-30 19:45:28 +0700",
       "minecraft:spider": "2025-06-30 15:34:03 +0700",
       "minecraft:zombie": "2025-07-01 08:58:33 +0700",
-      "minecraft:creeper": "2025-06-30 16:14:58 +0700"
+      "minecraft:creeper": "2025-06-30 16:14:58 +0700",
+      "minecraft:ghast": "2025-07-02 14:35:55 +0700",
+      "minecraft:hoglin": "2025-07-02 15:04:32 +0700"
     },
     "done": false
   },
@@ -1892,12 +1895,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-02 14:46:33 +0700",
       "minecraft:nether_wastes": "2025-07-01 11:05:54 +0700",
       "minecraft:soul_sand_valley": "2025-07-01 11:28:20 +0700",
       "minecraft:basalt_deltas": "2025-07-01 11:29:51 +0700",
       "minecraft:warped_forest": "2025-07-01 11:05:59 +0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -2351,9 +2355,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
-      "has_smooth_stone": "2025-07-02 12:31:04 +0700"
+      "has_planks": "2025-07-02 12:09:54 +0700"
     },
     "done": true
   },
@@ -2366,12 +2370,6 @@
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2025-07-02 12:09:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-02 12:09:54 +0700"
     },
     "done": true
   },
@@ -2405,21 +2403,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-07-02 12:31:04 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-07-02 12:09:55 +0700"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-02 12:31:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-02 12:31:04 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-02 12:31:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-07-02 14:59:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-07-02 14:59:57 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-07-02 15:04:33 +0700"
     },
     "done": true
   },
