@@ -1,83 +1,183 @@
-[19:41:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:41:47] [ServerMain/INFO]: Loaded 1407 recipes
-[19:41:47] [ServerMain/INFO]: Loaded 1520 advancements
-[19:41:47] [Server thread/INFO]: Starting minecraft server version 1.21.6
-[19:41:47] [Server thread/INFO]: Loading properties
-[19:41:47] [Server thread/INFO]: Default game type: SURVIVAL
-[19:41:47] [Server thread/INFO]: Generating keypair
-[19:41:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:41:47] [Server thread/INFO]: Using default channel type
-[19:41:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:41:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:41:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:41:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:41:48] [Server thread/INFO]: Preparing level "world"
-[19:41:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:41:54] [Server thread/INFO]: Time elapsed: 5416 ms
-[19:41:54] [Server thread/INFO]: Done (6.442s)! For help, type "help"
-[19:42:10] [Server thread/INFO]: MrCowww[/26.45.105.26:53327] logged in with entity id 8 at (220.69999998807907, 61.0, 732.6999999880791)
-[19:42:10] [Server thread/INFO]: MrCowww joined the game
-[19:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
-[19:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13370ms or 267 ticks behind
-[19:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[19:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
-[19:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
-[19:44:13] [Server thread/INFO]: [Not Secure] <MrCowww> 27
-[19:44:25] [Server thread/INFO]: [Not Secure] <MrCowww> 92
-[19:47:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4911ms or 98 ticks behind
-[19:48:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
-[19:52:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
-[19:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[19:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:57:03] [Server thread/INFO]: [Not Secure] <MrCowww> -117 -213
-[19:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
-[20:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
-[20:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[20:09:28] [Server thread/INFO]: MrCowww has made the advancement [A Terrible Fortress]
-[20:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:18:38] [Server thread/INFO]: MrCowww has made the advancement [Spooky Scary Skeleton]
-[20:19:40] [Server thread/WARN]: MrCowww moved too quickly! -4.132037916328549,-0.24918707874468282,-9.131955889623129
-[20:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9084ms or 181 ticks behind
-[20:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[20:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
-[20:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
-[20:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[20:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
-[20:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
-[20:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[20:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
-[20:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
-[21:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
-[21:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4339ms or 86 ticks behind
-[21:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4239ms or 84 ticks behind
-[21:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
-[21:13:45] [Server thread/WARN]: MrCowww moved too quickly! -2.990934910022787,1.1017092043376664,-9.55220564289732
-[21:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
-[21:22:01] [Server thread/INFO]: Stopping the server
-[21:22:01] [Server thread/INFO]: Stopping server
-[21:22:01] [Server thread/INFO]: Saving players
-[21:22:03] [Server thread/INFO]: MrCowww lost connection: Server closed
-[21:22:04] [Server thread/INFO]: MrCowww left the game
-[21:22:04] [Server thread/INFO]: Saving worlds
-[21:22:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:22:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:22:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:22:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:52:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:53:09] [ServerMain/INFO]: Loaded 1407 recipes
+[07:53:09] [ServerMain/INFO]: Loaded 1520 advancements
+[07:53:09] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[07:53:09] [Server thread/INFO]: Loading properties
+[07:53:09] [Server thread/INFO]: Default game type: SURVIVAL
+[07:53:09] [Server thread/INFO]: Generating keypair
+[07:53:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:53:10] [Server thread/INFO]: Using default channel type
+[07:53:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:53:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:53:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:53:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:53:10] [Server thread/INFO]: Preparing level "world"
+[07:53:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:53:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:53:19] [Server thread/INFO]: Time elapsed: 7649 ms
+[07:53:19] [Server thread/INFO]: Done (8.826s)! For help, type "help"
+[07:53:45] [Server thread/INFO]: MrCowww[/26.45.105.26:54039] logged in with entity id 8 at (220.69999998807907, 61.0, 732.6999999880791)
+[07:53:46] [Server thread/INFO]: MrCowww joined the game
+[07:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[07:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19090ms or 381 ticks behind
+[07:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[07:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[07:59:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[08:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[08:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[08:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[08:08:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[08:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18410ms or 368 ticks behind
+[08:10:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08:11:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[08:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[08:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[08:17:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[08:17:53] [Server thread/INFO]: MrCowww hit the ground too hard while trying to escape Skeleton
+[08:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[08:21:33] [Server thread/INFO]: MrCowww was shot by Skeleton
+[08:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14256ms or 285 ticks behind
+[08:22:49] [Server thread/WARN]: MrCowww moved too quickly! 0.0,-11.314849834017007,0.0
+[08:26:25] [Server thread/INFO]: MrCowww was blown up by Creeper
+[08:26:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[08:26:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8635ms or 172 ticks behind
+[08:28:56] [Server thread/INFO]: MrCowww was slain by Zombie
+[08:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[08:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[08:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9664ms or 193 ticks behind
+[08:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3312ms or 66 ticks behind
+[08:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[08:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[08:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[08:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4012ms or 80 ticks behind
+[08:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6329ms or 126 ticks behind
+[08:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6046ms or 120 ticks behind
+[08:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[08:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[09:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3983ms or 79 ticks behind
+[09:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4408ms or 88 ticks behind
+[09:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4376ms or 87 ticks behind
+[09:12:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[09:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[09:21:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[09:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8092ms or 161 ticks behind
+[09:29:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[09:31:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4330ms or 86 ticks behind
+[09:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[09:35:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[09:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7416ms or 148 ticks behind
+[09:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[09:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[09:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
+[09:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[09:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[09:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8047ms or 160 ticks behind
+[09:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4765ms or 95 ticks behind
+[09:51:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[09:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[10:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[10:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[10:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6499ms or 129 ticks behind
+[10:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[10:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[10:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[10:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[10:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[10:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[10:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
+[10:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[10:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2647ms or 52 ticks behind
+[10:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[10:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7091ms or 141 ticks behind
+[10:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5977ms or 119 ticks behind
+[10:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[10:41:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[10:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[10:43:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[10:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[10:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[10:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3417ms or 68 ticks behind
+[10:50:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[10:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[10:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[10:55:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[10:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[10:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[11:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[11:03:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14323ms or 286 ticks behind
+[11:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[11:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3165ms or 63 ticks behind
+[11:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[11:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[11:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16279ms or 325 ticks behind
+[11:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5209ms or 104 ticks behind
+[11:10:32] [Server thread/INFO]: MrCowww hit the ground too hard
+[11:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
+[11:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[11:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[11:24:48] [Server thread/INFO]: MrCowww was slain by Zombie
+[11:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3345ms or 66 ticks behind
+[11:27:56] [Server thread/INFO]: MrCowww was slain by Zombie
+[11:28:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[11:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[11:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[11:39:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[11:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[11:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[11:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[11:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[11:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[11:49:09] [Server thread/INFO]: MrCowww was slain by Zombie
+[11:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[11:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3083ms or 61 ticks behind
+[11:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[12:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[12:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[12:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[12:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12:10:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[12:20:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[12:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[12:30:22] [Server thread/WARN]: MrCowww moved too quickly! 10.16001430098413,0.49520087700592086,0.34446599891600727
+[12:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[12:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[12:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[12:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
+[12:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3953ms or 79 ticks behind
+[12:45:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[12:45:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[12:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[12:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[12:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4915ms or 98 ticks behind
+[12:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[12:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[12:53:03] [Server thread/INFO]: Stopping the server
+[12:53:04] [Server thread/INFO]: Stopping server
+[12:53:04] [Server thread/INFO]: Saving players
+[12:53:06] [Server thread/INFO]: MrCowww lost connection: Server closed
+[12:53:06] [Server thread/INFO]: MrCowww left the game
+[12:53:07] [Server thread/INFO]: Saving worlds
+[12:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:53:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:53:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:53:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:53:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:53:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:53:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
