@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-06-30 15:07:38 +0700",
       "minecraft:beach": "2025-06-30 15:07:40 +0700",
       "minecraft:ocean": "2025-06-30 15:07:59 +0700",
+      "minecraft:deep_ocean": "2025-07-03 08:28:45 +0700",
       "minecraft:sunflower_plains": "2025-06-30 15:08:33 +0700",
       "minecraft:river": "2025-06-30 15:07:51 +0700",
       "minecraft:stony_shore": "2025-06-30 15:07:41 +0700",
@@ -635,16 +636,17 @@
     "criteria": {
       "minecraft:blaze": "2025-07-02 20:14:41 +0700",
       "minecraft:skeleton": "2025-07-01 08:39:04 +0700",
-      "minecraft:piglin": "2025-07-01 11:13:19 +0700",
       "minecraft:zombified_piglin": "2025-07-01 11:24:16 +0700",
+      "minecraft:wither_skeleton": "2025-07-02 20:13:08 +0700",
+      "minecraft:ghast": "2025-07-02 14:35:55 +0700",
+      "minecraft:hoglin": "2025-07-02 15:04:32 +0700",
+      "minecraft:piglin": "2025-07-01 11:13:19 +0700",
       "minecraft:enderman": "2025-06-30 19:45:28 +0700",
       "minecraft:magma_cube": "2025-07-02 20:22:48 +0700",
       "minecraft:spider": "2025-06-30 15:34:03 +0700",
-      "minecraft:wither_skeleton": "2025-07-02 20:13:08 +0700",
       "minecraft:zombie": "2025-07-01 08:58:33 +0700",
       "minecraft:creeper": "2025-06-30 16:14:58 +0700",
-      "minecraft:ghast": "2025-07-02 14:35:55 +0700",
-      "minecraft:hoglin": "2025-07-02 15:04:32 +0700"
+      "minecraft:zombie_villager": "2025-07-03 08:15:20 +0700"
     },
     "done": false
   },
@@ -2484,9 +2486,9 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "wither_skull": "2025-07-02 20:18:38 +0700"
+      "fortress": "2025-07-02 20:09:27 +0700"
     },
     "done": true
   },
@@ -2496,15 +2498,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-07-02 20:20:01 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-07-02 20:11:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-02 20:18:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-02 20:18:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-02 20:20:01 +0700"
     },
     "done": true
   },
@@ -2514,15 +2528,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
-      "fortress": "2025-07-02 20:09:27 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-07-02 20:18:38 +0700"
+      "has_logs": "2025-07-03 08:01:01 +0700"
     },
     "done": true
   },
