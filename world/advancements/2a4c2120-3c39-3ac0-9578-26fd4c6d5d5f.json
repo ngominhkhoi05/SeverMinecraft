@@ -660,6 +660,7 @@
       "minecraft:piglin_brute": "2025-07-04 08:31:36 +0700",
       "minecraft:zombie": "2025-07-01 08:58:33 +0700",
       "minecraft:creeper": "2025-06-30 16:14:58 +0700",
+      "minecraft:drowned": "2025-07-05 20:18:34 +0700",
       "minecraft:zombie_villager": "2025-07-03 08:15:20 +0700"
     },
     "done": false
@@ -3469,6 +3470,36 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-04 13:23:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 20:53:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-05 20:29:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-05 20:29:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-07-05 20:29:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-05 20:53:21 +0700"
     },
     "done": true
   },
